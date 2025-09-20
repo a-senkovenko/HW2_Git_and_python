@@ -1,3 +1,6 @@
+def subtraction(val1, val2):
+    return val1 -  val2
+
 def addition(val1, val2):
     return val1 + val2
 
