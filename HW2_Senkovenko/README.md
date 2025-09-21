@@ -92,4 +92,4 @@ Program closed
 
 ## ✨✨Our team!✨✨
 
-![alt text](imgs_Senkovenko/telegram-cloud-photo-size-2-5361908254491407803-y.jpg)
+![alt text](imgs_Senkovenko/photo_2025-09-18_20-48-29.jpg)
